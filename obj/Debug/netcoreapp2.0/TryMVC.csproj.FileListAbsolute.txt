@@ -1,0 +1,10 @@
+D:\Ana\Estudio Programacion\TryMVC\bin\Debug\netcoreapp2.0\TryMVC.deps.json
+D:\Ana\Estudio Programacion\TryMVC\bin\Debug\netcoreapp2.0\TryMVC.runtimeconfig.json
+D:\Ana\Estudio Programacion\TryMVC\bin\Debug\netcoreapp2.0\TryMVC.runtimeconfig.dev.json
+D:\Ana\Estudio Programacion\TryMVC\bin\Debug\netcoreapp2.0\TryMVC.dll
+D:\Ana\Estudio Programacion\TryMVC\bin\Debug\netcoreapp2.0\TryMVC.pdb
+D:\Ana\Estudio Programacion\TryMVC\obj\Debug\netcoreapp2.0\TryMVC.csproj.CoreCompileInputs.cache
+D:\Ana\Estudio Programacion\TryMVC\obj\Debug\netcoreapp2.0\TryMVC.AssemblyInfoInputs.cache
+D:\Ana\Estudio Programacion\TryMVC\obj\Debug\netcoreapp2.0\TryMVC.AssemblyInfo.cs
+D:\Ana\Estudio Programacion\TryMVC\obj\Debug\netcoreapp2.0\TryMVC.dll
+D:\Ana\Estudio Programacion\TryMVC\obj\Debug\netcoreapp2.0\TryMVC.pdb
